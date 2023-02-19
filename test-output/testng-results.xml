@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61121" started-at="2023-01-27T15:13:42Z" finished-at="2023-01-27T15:14:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61121" started-at="2023-01-27T15:13:42Z" finished-at="2023-01-27T15:14:43Z">
+      <class name="com.TestNg.A">
+        <test-method status="PASS" signature="takeScreenshoot()[pri:0, instance:com.TestNg.A@6500df86]" name="takeScreenshoot" duration-ms="60992" started-at="2023-01-27T15:13:42Z" finished-at="2023-01-27T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshoot -->
+      </class> <!-- com.TestNg.A -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
